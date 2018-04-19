@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    min-height: 200px;
+    background-color: aqua;
+    overflow: hidden;
+    text-align: center;
+}
+.side_bar{
+    min-height: 500px;
+    width: 20%;
+    background-color: yellow;
+    overflow: hidden;
+    float: left;
+    text-align: center;
+}
+.content{
+    min-height: 500px;
+    width: 80%;
+    background-color: orange;
+    overflow: hidden;
+    text-align: center;
+}
+.footer{
+    min-height: 100px;
+    background-color: aqua;
+    overflow: hidden;
+    text-align: center;
+}
